@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0B3A8F,100:2F80FF&height=200&section=header&text=Harshit%20Panchal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0B3A8F,100:2F80FF&height=200&section=header&text=Harshit%20&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI&descSize=18&descAlignY=60" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+software+with+AI%2C+engineering+and+curiosity.;Full+stack+developer.;Software+development+experience+at+SAP.;Shipping+practical%2C+well-crafted+products." alt="Typing tagline" />
